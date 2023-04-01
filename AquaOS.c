@@ -8,5 +8,7 @@ int main() {
   return 0;
   if  (login = false)  {
    printf("you are not logged in");
+   printf("login");
+var login = true 
   }
 }
