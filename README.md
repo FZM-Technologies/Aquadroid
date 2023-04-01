@@ -8,3 +8,7 @@ Aquadroid is heavily community based which requires daily forks and pull request
 
 Aquadroid is developed in javascript, c and xml. Any of these files are supported and can be used for the development of aquadroid
 
+# Credits
+
+Special thanks to Faimue for creating FZM Technologies and supporting mini-projects. 
+
