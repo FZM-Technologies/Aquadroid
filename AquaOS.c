@@ -10,9 +10,3 @@ int main() {
    printf("you are not logged in");
    printf("login");
 int login = 1
-print(login) 
-if (login =1) {
-printf("you are now logged in");
-} 
-  }
-}
