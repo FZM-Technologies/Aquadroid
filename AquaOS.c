@@ -10,6 +10,3 @@ int main() {
    printf("you are not logged in");
    printf("login");
 int login = 1
-  }
-}
- 
